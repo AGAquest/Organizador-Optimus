@@ -72,10 +72,5 @@ organizador_optimus/
 tests/             Pruebas (pytest)
 ```
 
-## Ideas para próximas versiones
-- Clasificación con IA local (Ollama) como opción.
-- OCR para PDFs escaneados (hoy se clasifican por nombre de archivo).
-- Icono en la bandeja del sistema.
-
 ## Licencia
 MIT
